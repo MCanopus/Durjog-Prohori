@@ -2,6 +2,8 @@
 
 **Durjog Prohori** is a web-based disaster management system that provides real-time disaster monitoring, emergency response coordination, and citizen support during natural and human-made disasters in Bangladesh. It connects citizens, authorities, NGOs, firefighters, and responders on a single digital platform to ensure faster, smarter, and more coordinated disaster management.
 
+Video Demonstration: https://youtu.be/QEsjahkjYvo?si=9XoV4HTjI7qwfQA1
+
 ---
 
 ## 🚨 Project Objectives
