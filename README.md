@@ -115,6 +115,3 @@ Collections include:
 
 ---
 
-## 📸 Screenshots
-
-
